@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['51924358041', '👑 Mystic - Creador 👑', true],
   ['Unptoadrih15', '👑 Mystic - Collaborator 1 👑', true],
   ['50499698072', '👑 Mystic - Collaborator 2 👑', true],
   ['51940617554', '👑 Mystic - Collaborator 3 👑', true],
@@ -13,7 +13,7 @@ global.owner = [
   ['593959425714', '👑 Mystic - Collaborator 6 👑', true],
   ['50246028932', '👑 Mystic - Collaborator 7 👑', true],  
   ['593968585283'],
-  ['5219992095479'],
+  ['51924358041'],
   ['5219991402134'],
   ['5219993404349'],
   ['593968585383'],
