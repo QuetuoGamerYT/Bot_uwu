@@ -91,7 +91,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 77,
+      "exp": 112,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -516,7 +516,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 1055,
+      "exp": 1110,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -2191,10 +2191,10 @@
   },
   "stats": {
     "menu-menu.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1667800056454,
-      "lastSuccess": 1667800056454
+      "total": 6,
+      "success": 6,
+      "last": 1668036410386,
+      "lastSuccess": 1668036410386
     },
     "convertidor-tts.js": {
       "total": 6,
